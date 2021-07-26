@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning, well actually a lot, deeping on PHP, getting used to npm, packages, a lot of javascript, but i could point especifically React (at the moment).
 - 💞️ I’m looking to collaborate on whatever can help me improve and make an improvement.
 - 📫 How to reach me I'm available on telegram as @gabdlr.
-Final note: I'd like to finish pharmacy. I'm not a quitter, I just switched because I had this look at the greater picture. But hope I can at some point of life take it back.
+Final note: I'd like to finish pharmacy. I'm not a quitter, I just switched because I had this look at the bigger picture. But hope I can at some point of life finish it.
 
 <!---
 gabdlr/gabdlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
