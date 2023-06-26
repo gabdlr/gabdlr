@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with who ever thinks I could be helpful in a project that could be helpful to others.
 - 📫 How to reach me I'm available on telegram as @gabdlr.
 
-- 👣️ Before programming I did study pharmacy, I have sincere love for knowledge of any kind.
+- 👣️ Before programming I studied pharmacy, I have sincere love for knowledge of any kind.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabdlr&layout=compact)](https://github.com/gabdlr/github-readme-stats)
