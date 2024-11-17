@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabdlr, I've been programming for not so long, but I know web programming since I was 14 at least, so, here I am.  
-- 👀 I'm very passionated about building things with programming, I like doing everything in the best possible way to achieve the best possible result, I find it really pleasant and enjoyable.
-- 🌱 [UPDATE: Actually, I'm really into Angular and I'd love to dive in as Frontend Angular developer] I'm a web developer and my main stack is the LAMP stack since I got involved early as a kid and there weren't many other options back then, anyway, I do like PHP but I've been exploring and learning the MERN stack, and in my personal programming time I'm pushing myself hard to improve my skills on it.
+- 👋 Hi, I’m @gabdlr, I've been professionally programming since 2021, I'm seeking for challenges and professional growth
+- 👀 I like to get hands on work, exploring and developing things!.
+- 🌱 I have worked mainly as frontend developer with the Angular2 framework, I really like it and enjoy it but I'm pursuing to push the boudaries further.
 - 💞️ I’m looking to collaborate with who ever thinks I could be helpful in a project that could be helpful to others.
 - 📫 How to reach me I'm available on telegram as @gabdlr.
 
